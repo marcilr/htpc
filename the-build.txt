@@ -76,3 +76,42 @@ Dimensions: 10.2"(W) x 3.1"(H) x 8.5"(D)
 
 The difference between this and the previous is the 4x PoE.
 Not needed in my case.
+
+
+Processor
+=========
+Default: Intel® Pentium® Processor G4400 (3M Cache, 3.30 GHz) [+$0.00]
+
+Intel Core i7-7700T Processor (8M Cache, up to 3.80 GHz) . . . [+$400.00]
+o quad-core
+o 14nm
+
+Wireless
+========
+Mini PCI Express Intel Wireless-AC 7260+Bluetooth 4.0 Dual Antenna [+$55.00]
+
+
+Mounting Devices & Accessories
+==============================
+I/O Ports Dust Cover Kit . . . [+$25.00]
+DINRAIL + VESA Mounting Kit . . . [+$120.00]   <===
+
+
+Memory
+======
+DDR4-2133 SODIMM 32 GB (16GBx2) . . . [+$373.00]   <===
+
+
+Hard Drive
+==========
+Default: 500GB 2.5" SATA III 5400RPM Hard Drive [$0.00]
+
+
+Base price: $1,258.00
+
+
+Links
+=====
+Echo 236FE i7 Fanless Mini PC - An Embedded System with
+i7 Skylake-S / Kaby Lake and with PCIe Express x16 slot
+http://www.cappuccinopc.com/embedded-systems/Echo236FE-i7-fanless-mini-pc-with-PCIe-Express-x16-slot.asp
