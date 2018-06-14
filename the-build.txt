@@ -16,6 +16,9 @@ o 2x 2.5" bays
 ===> Need to integrate the Ceton InfiniTV 4 PCIe 4-channel
      Internal Cable TV Tuner Card for CableCARD
 
+     Dimensions, 6.6" (D) x 0.7" (W) x 2.5" (H)
+     --https://www.amazon.com/Ceton-InfiniTV-PCIe-4-channel-CableCARD/dp/B003B4VLJQ
+
      see: svn-ORIG-20151006/media/htpc/the-build/specs.txt:53
      svn-ORIG-20151006/media/htpc/the-build/the-build.txt:333:
      o Installed the Ceton InfiniTV 4 PCIe 4-channel PCIe cable
@@ -36,7 +39,11 @@ o 1 Front-access CFast Socket
 o 3 Front-access SIM Card sockets (Required Separate Mini PCIe Modem)
 o 2 Front-access 2.5" SSD/ HDD
 o Dual NIC
-o 1 PCIe x16 Expansion Slot (Max Card Dimension: 4.2"(H) x 7.9"(D) )
+o 1 PCIe x16 Expansion Slot (Max Card Dimension: 4.2"(H) x 7.9"(D))
+  NOTE: This should fit the Ceton InfiniTV tuner card:
+        Dimensions: 6.6" (D) x 0.7" (W) x 2.5" (H) inches.
+
+
 o DVI-I/ DVI-D/ DisplayPort Interface, up to 3 independent
   4K displays(DisplayPort only)
 o 8 x USB 3.0
