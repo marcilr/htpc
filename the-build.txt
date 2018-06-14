@@ -6,6 +6,9 @@ Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
 The Build
 
 
+Figure configure OpenELEC to boot off usb
+
+
 Requirements
 ============
 o Fanless
@@ -43,13 +46,14 @@ o 1 PCIe x16 Expansion Slot (Max Card Dimension: 4.2"(H) x 7.9"(D))
   NOTE: This should fit the Ceton InfiniTV tuner card:
         Dimensions: 6.6" (D) x 0.7" (W) x 2.5" (H) inches.
 
-
 o DVI-I/ DVI-D/ DisplayPort Interface, up to 3 independent
   4K displays(DisplayPort only)
 o 8 x USB 3.0
 o 4 x COM Ports
 o RAM: 2 DDR4 2133MHz SO-DIMM, up to 32GB
 o Dimenstions: 10.2"(W) x 3.1"(H) x 8.5"(D)
+
+What video chipset is used? (Check OpenElec compatibility)
 
 Think this is it!
 
@@ -116,3 +120,19 @@ Links
 Echo 236FE i7 Fanless Mini PC - An Embedded System with
 i7 Skylake-S / Kaby Lake and with PCIe Express x16 slot
 http://www.cappuccinopc.com/embedded-systems/Echo236FE-i7-fanless-mini-pc-with-PCIe-Express-x16-slot.asp
+
+Installing OpenELEC | OpenELEC Mediacenter
+Has installation to USB
+https://www.openelec.tv/documentation/installing-openelec
+https://www.openelec.tv/documentation/installing-openelec/basic-install-guide
+
+openlec
+o Hardware - As it is designed to be lightweight, OpenELEC
+  uses very little system resources for processor or memory.
+  With support for Intel's HD Graphics, NVIDIA's GeForce & ION
+  platform, AMD's Radeon & Fusion platform as well as Broadcom's
+  Crystal HD chip, OpenELEC can support high definition content
+  on machines with low-powered processors by offloading video
+  content to the supported graphics cards and decoders.
+o OpenELEC won the Swiss Opensource Award in 2014
+https://openelec.tv/
