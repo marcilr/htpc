@@ -3,9 +3,69 @@ Created Thu Jun 14 08:12:01 AKDT 2018
 Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
 
 
+The Build
+
+
 Requirements
 ============
 o Fanless
 o 2x lan
 o 2x 2.5" bays
 
+
+===> Need to integrate the Ceton InfiniTV 4 PCIe 4-channel
+     Internal Cable TV Tuner Card for CableCARD
+
+     see: svn-ORIG-20151006/media/htpc/the-build/specs.txt:53
+     svn-ORIG-20151006/media/htpc/the-build/the-build.txt:333:
+     o Installed the Ceton InfiniTV 4 PCIe 4-channel PCIe cable
+       card carrier in the HDPlex H10.sodd
+
+
+Perhaps switch up the current htpc HDPlex H10.sodd
+for a CappuccinoPC:
+
+
+Echo 236FE i7 Fanless Mini PC - An Embedded System
+with i7 Skylake-S / Kaby Lake and with PCIe Express x16 slot
+============================================================
+o 7th and 6th Generation Intel Core i7 Mobile Processor 
+  (SkyLake-S / Kaby Lake)
+o Fanless Mini PC Industrial Design
+o 1 Front-access CFast Socket
+o 3 Front-access SIM Card sockets (Required Separate Mini PCIe Modem)
+o 2 Front-access 2.5" SSD/ HDD
+o Dual NIC
+o 1 PCIe x16 Expansion Slot (Max Card Dimension: 4.2"(H) x 7.9"(D) )
+o DVI-I/ DVI-D/ DisplayPort Interface, up to 3 independent
+  4K displays(DisplayPort only)
+o 8 x USB 3.0
+o 4 x COM Ports
+o RAM: 2 DDR4 2133MHz SO-DIMM, up to 32GB
+o Dimenstions: 10.2"(W) x 3.1"(H) x 8.5"(D)
+
+Think this is it!
+
+
+Echo 236FE-PoE i7 Fanless Mini PC - An Embedded System
+with PCIe Express x16 slot and 4 PoE Ports
+======================================================
+o 7th and 6th Generation Intel Core i7 Mobile Processor 
+  (SkyLake-S / Kaby Lake)
+o Fanless Mini PC Industrial Design
+o 1 Front-access CFast Socket
+o 3 Front-access SIM Card sockets (Required Separate Mini PCIe Modem)
+o 2 Front-access 2.5" SSD/ HDD
+o Dual NIC
+o 4x PoE
+o 1 PCIe x16 Expansion Slot (Max Card Dimension: 4.2"(H) x 7.9"(D) )
+o VGA/ DVI-D/ 2 x DisplayPort Interface, up to
+  3 independent 4K displays(DisplayPort only)
+o 6 x USB 3.0
+o 4 x COM Ports
+o 32 Isolated DIO : 16 DI, 16 DO
+RAM: 2 DDR4 2133MHz SO-DIMM, up to 32GB
+Dimensions: 10.2"(W) x 3.1"(H) x 8.5"(D)
+
+The difference between this and the previous is the 4x PoE.
+Not needed in my case.
