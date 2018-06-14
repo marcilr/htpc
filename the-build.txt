@@ -94,7 +94,8 @@ Mini PCI Express Intel Wireless-AC 7260+Bluetooth 4.0 Dual Antenna [+$55.00]
 Mounting Devices & Accessories
 ==============================
 I/O Ports Dust Cover Kit . . . [+$25.00]
-DINRAIL + VESA Mounting Kit . . . [+$120.00]   <===
+DINRAIL + VESA Mounting Kit . . . [+$120.00]   <=== For mounting upside down 
+                                                    under desk.
 
 
 Memory
