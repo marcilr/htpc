@@ -1,0 +1,11 @@
+the-build.txt
+Created Thu Jun 14 08:12:01 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Requirements
+============
+o Fanless
+o 2x lan
+o 2x 2.5" bays
+
