@@ -12,5 +12,22 @@ CappuccinoPC.com
 Fine small fanless PCs.
 http://www.cappuccinopc.com/
 
+Ceton infiniTV 4 PCIe
+http://cetoncorp.com/products/infinitv-4-pcie/
+
+Ceton InfiniTV 6 PCIe does it work with Kodi?
+"I'm using an infitiTV 4 PCIe card with WMC and
+the ServerWMC addon. It works flawlessly, so I
+can only assume that the InfiniTV 6 will work just fine"
+NOTE: WMC - Window Media Center
+https://forum.kodi.tv/showthread.php?tid=221848
+
 Our Fanless Mini PC (Industrial / Embedded / Rugged)
 http://www.cappuccinopc.com/solutions/fanless_mini_pc.asp
+
+ServerWMC is a server interface for Windows which communicates
+with Windows Media Center (WMC) allowing it to be used as a
+Personal Video Recorder (PVR) backend providing Live TV,
+PVR functions and Electronic Program Guide (EPG) data.
+These services are provided to XBMC though the pvr.wmc add-on.
+https://kodi.wiki/view/ServerWMC
